@@ -12,4 +12,5 @@ adding 9th line
 adding fifth line
 adding sixth line
 adding seventh line
+fixed the issue
 >>>>>>> feature
